@@ -9,6 +9,7 @@ I've done many projects, and in this gallery I'm going to show some of them.
 قمت بالعديد من المشاريع، وفي هذا المعرض سأعرض بعض الصورة عنها.
 
 # your time money app:
+### React Native + expo + axois.js + React Navigator + React Native Elements + react-native-storage + Matter.js  /  pure PHP + PHPMailer / AdMob API / Payeer API
 
 it's an app that will let you win money while you playing a game.
 
@@ -25,6 +26,7 @@ screenshots:
 a try: https://youtu.be/bx1LHS1Cu5U
 
 # RoboEyes App:
+### Android Studio: Java + Camera2 Library  / Python: TensorFlow + Image processing + Collab Online training
 
 This project was my graduation project, it is an application dedicated to helping blind people walk the streets, based on artificial intelligence and deep learning, and we trained on three objects: potholes, cars, and trees.
 
@@ -44,6 +46,7 @@ ZaitunMedia:
 https://www.facebook.com/ZaitunMedia/videos/656165058834405
 
 # Find differences game - to focus:
+### React Native + React Navigator + React Native Elements + react-native-push-notification + react-native-storage + rn-fetch-blob + react-native-gesture-handler /  Google Firebase / AdMob API
 
 A distinctive game that there are daily stages added to the game, competitions are the other feature where you may win very valuable prizes by entering a competition with the rest of the players. You have to be quick and smarter to win valuable prizes.
 
